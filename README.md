@@ -5,18 +5,31 @@ This repository is a key code for static fuzzy mutation techniques based on abst
 Function Description
 /*
 *MainLoad startup class
+
 *Node node structure
-*AddLock Adds a mutually exclusive lock declaration statement.
+
+*AddLock Adds a mutually exclusive lock declaration statement
+
 *AddSignal Add semaphore for concurrency mechanism
+
 *AddThread Add thread initialization statements
+
 *BuildTree Refactor syntax tree
-*Combination arranges the combination algorithm.
+
+*Combination arranges the combination algorithm
+
 *ReplaceJoin replaces jion subtree
+
 *TreeUtils custom syntax tree tool class
+
 *ToGlobal local variable globalization
+
 *To** Replace Relational Arithmetic Logic Operators
+
 *RandomDelete Delete statement nodes
+
 *RandomMutation Replace statement nodes
+
 */
 
 Dependencies
