@@ -1,0 +1,4 @@
+void main(){
+sem.signal();
+sem.wait();
+}
